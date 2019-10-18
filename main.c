@@ -2,6 +2,9 @@
 #include "bubbleSort.h"
 
 
+
+
+
 char data[] = {35,56,3,5,2,9,0,6};
 
 int main()
